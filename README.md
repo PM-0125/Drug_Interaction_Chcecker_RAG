@@ -3,6 +3,9 @@
 ## Overview
 The **Drug Interaction Checker** is an interactive application designed to identify potential interactions between drugs, build a semantic knowledge graph, and provide concise, meaningful summaries of drug information. This project combines the power of Natural Language Processing (NLP), semantic data technologies, and deep learning-based summarization models to ensure safer medication use and better insights.
 
+# **Disclaimer**
+We have tried our best to keep the information Generic and precise Ground Truth available on  different authenticated platforms! However we do not claim 100% Accuracy and ground truth please consult to a Physician in any specific scenarios.
+
 This tool is equipped with:
 - **Natural Language Processing** for drug name recognition from user queries.
 - **RDF Knowledge Graphs** for structured representation of drug data.
