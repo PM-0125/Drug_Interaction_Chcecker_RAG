@@ -29,7 +29,7 @@ If you face any issues obtaining the file or Running our Code or if you have any
 
 ### Prerequisites
 - Python 3.7 or higher
-- A running instance of the Apache Jena Fuseki server for RDF data handling (optional).
+- A running instance of the Apache Jena Fuseki server for RDF data handling.
 
 ### Steps
 1. **Clone the Repository**
